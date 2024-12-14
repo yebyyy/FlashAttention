@@ -1,2 +1,2 @@
-# Flash-Attention
+# FlashAttention
 This is an implementation of flash attention using Triton
