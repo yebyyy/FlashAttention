@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EFDC7F3-B848-491F-AE8D-5397DCA013B7}|Cuda.vcxproj|C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0EFDC7F3-B848-491F-AE8D-5397DCA013B7}|Cuda.vcxproj|solutionrelative:kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}|Cuda.vcxproj|C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\vector_add.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}|Cuda.vcxproj|solutionrelative:vector_add.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}|Cuda.vcxproj|C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\example.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}|Cuda.vcxproj|solutionrelative:example.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "kernel.cu",
-              "DocumentMoniker": "C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\kernel.cu",
-              "RelativeDocumentMoniker": "kernel.cu",
-              "ToolTip": "C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\kernel.cu",
-              "RelativeToolTip": "kernel.cu",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAAAAgAAAA9AAAA",
+              "Title": "vector_add.cu",
+              "DocumentMoniker": "C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\vector_add.cu",
+              "RelativeDocumentMoniker": "vector_add.cu",
+              "ToolTip": "C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\vector_add.cu",
+              "RelativeToolTip": "vector_add.cu",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAAFAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-21T01:20:34.938Z",
+              "WhenOpened": "2024-12-21T23:21:20.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "example.cu",
+              "DocumentMoniker": "C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\example.cu",
+              "RelativeDocumentMoniker": "example.cu",
+              "ToolTip": "C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\example.cu",
+              "RelativeToolTip": "example.cu",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAGgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-21T21:57:49.596Z",
               "EditorCaption": ""
             }
           ]

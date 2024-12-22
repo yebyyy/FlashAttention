@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cuda", "Cuda.vcxproj", "{0EFDC7F3-B848-491F-AE8D-5397DCA013B7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cuda", "Cuda.vcxproj", "{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|x64 = Release|x64
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{0EFDC7F3-B848-491F-AE8D-5397DCA013B7}.Debug|x64.ActiveCfg = Debug|x64
-		{0EFDC7F3-B848-491F-AE8D-5397DCA013B7}.Debug|x64.Build.0 = Debug|x64
-		{0EFDC7F3-B848-491F-AE8D-5397DCA013B7}.Release|x64.ActiveCfg = Release|x64
-		{0EFDC7F3-B848-491F-AE8D-5397DCA013B7}.Release|x64.Build.0 = Release|x64
+		{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}.Debug|x64.ActiveCfg = Debug|x64
+		{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}.Debug|x64.Build.0 = Debug|x64
+		{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}.Release|x64.ActiveCfg = Release|x64
+		{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E4BA7673-8376-44C2-9F7B-04CC76388BA3}
+		SolutionGuid = {7A2B7084-CFE7-4CA0-B431-B817BFB629A8}
 	EndGlobalSection
 EndGlobal

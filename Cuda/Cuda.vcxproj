@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{0EFDC7F3-B848-491F-AE8D-5397DCA013B7}</ProjectGuid>
+    <ProjectGuid>{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}</ProjectGuid>
     <RootNamespace>Cuda</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -77,7 +77,8 @@
     </CudaCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <CudaCompile Include="kernel.cu" />
+    <CudaCompile Include="vector_add.cu" />
+    <CudaCompile Include="example.cu" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
