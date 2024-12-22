@@ -69,6 +69,8 @@ void test_add_vector(int n) {
 	float time;
 	cudaEventElapsedTime(&time, start, stop);
 	printf("Time: %f ms\n", time);
+	cudaEventDestroy(start);
+	cudaEventDestroy(stop);
 	cudaStatus = cudaMemcpy(out, d_out, sizeof(int) * n, cudaMemcpyDeviceToHost);
 	if (cudaStatus != cudaSuccess) {
 		fprintf(stderr, "out copy failed");
