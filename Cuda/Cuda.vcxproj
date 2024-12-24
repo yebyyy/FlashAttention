@@ -77,6 +77,7 @@
     </CudaCompile>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <CudaCompile Include="large_vector_add.cu" />
     <CudaCompile Include="vector_add.cu" />
     <CudaCompile Include="example.cu" />
   </ItemGroup>
