@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}|Cuda.vcxproj|C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\large_vector_add.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}|Cuda.vcxproj|solutionrelative:large_vector_add.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}|Cuda.vcxproj|C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\example.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}|Cuda.vcxproj|solutionrelative:example.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}|Cuda.vcxproj|C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\matrix_add.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}|Cuda.vcxproj|solutionrelative:matrix_add.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}|Cuda.vcxproj|C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\vector_add.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}|Cuda.vcxproj|solutionrelative:vector_add.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}|Cuda.vcxproj|C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\example.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9BFD4BC5-D53A-4ADB-9527-6D496FF3B813}|Cuda.vcxproj|solutionrelative:example.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,19 +31,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "large_vector_add.cu",
-              "DocumentMoniker": "C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\large_vector_add.cu",
-              "RelativeDocumentMoniker": "large_vector_add.cu",
-              "ToolTip": "C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\large_vector_add.cu",
-              "RelativeToolTip": "large_vector_add.cu",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Title": "matrix_add.cu",
+              "DocumentMoniker": "C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\matrix_add.cu",
+              "RelativeDocumentMoniker": "matrix_add.cu",
+              "ToolTip": "C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\matrix_add.cu",
+              "RelativeToolTip": "matrix_add.cu",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-24T04:06:57.649Z",
+              "WhenOpened": "2024-12-24T04:36:33.496Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "vector_add.cu",
               "DocumentMoniker": "C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\vector_add.cu",
               "RelativeDocumentMoniker": "vector_add.cu",
@@ -56,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "example.cu",
               "DocumentMoniker": "C:\\Users\\yexia\\Desktop\\CS Projects\\Personal\\FlashAttention\\Cuda\\example.cu",
               "RelativeDocumentMoniker": "example.cu",
@@ -64,8 +64,7 @@
               "RelativeToolTip": "example.cu",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAGgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-21T21:57:49.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-21T21:57:49.596Z"
             }
           ]
         }
